@@ -1,0 +1,697 @@
+industry,kind_of_business,month,avg_sales,lowest_sales,highest_sales
+Automotive,Automobile and other motor vehicle dealers,April,85590.62,57767.0,129053.0
+Automotive,Automobile and other motor vehicle dealers,August,91817.46,59027.0,124722.0
+Automotive,Automobile and other motor vehicle dealers,December,87227.23,57998.0,112739.0
+Automotive,Automobile and other motor vehicle dealers,February,76497.54,46213.0,108112.0
+Automotive,Automobile and other motor vehicle dealers,January,72903.69,44566.0,104500.0
+Automotive,Automobile and other motor vehicle dealers,July,89749.85,60194.0,119419.0
+Automotive,Automobile and other motor vehicle dealers,June,88929.0,57777.0,122624.0
+Automotive,Automobile and other motor vehicle dealers,March,90801.92,60806.0,131491.0
+Automotive,Automobile and other motor vehicle dealers,May,91391.0,58792.0,128180.0
+Automotive,Automobile and other motor vehicle dealers,November,80451.54,52325.0,107017.0
+Automotive,Automobile and other motor vehicle dealers,October,84490.46,54589.0,115898.0
+Automotive,Automobile and other motor vehicle dealers,September,84054.0,54920.0,114453.0
+Automotive,Automobile dealers,April,78610.23,53010.0,117514.0
+Automotive,Automobile dealers,August,85288.92,55146.0,113755.0
+Automotive,Automobile dealers,December,82748.23,55257.0,105829.0
+Automotive,Automobile dealers,February,71840.85,43455.0,99008.0
+Automotive,Automobile dealers,January,68962.85,42162.0,96689.0
+Automotive,Automobile dealers,July,82751.15,55880.0,109169.0
+Automotive,Automobile dealers,June,81222.69,53074.0,111154.0
+Automotive,Automobile dealers,March,84148.15,56506.0,120463.0
+Automotive,Automobile dealers,May,83750.69,54203.0,116807.0
+Automotive,Automobile dealers,November,75997.77,49417.0,100197.0
+Automotive,Automobile dealers,October,79245.31,51489.0,106996.0
+Automotive,Automobile dealers,September,78459.85,51581.0,104852.0
+Automotive,"Automotive parts, acc., and tire stores",April,7781.54,6601.0,10426.0
+Automotive,"Automotive parts, acc., and tire stores",August,8386.62,7047.0,11169.0
+Automotive,"Automotive parts, acc., and tire stores",December,7508.23,6357.0,10117.0
+Automotive,"Automotive parts, acc., and tire stores",February,6948.77,5609.0,8879.0
+Automotive,"Automotive parts, acc., and tire stores",January,6901.85,5304.0,9047.0
+Automotive,"Automotive parts, acc., and tire stores",July,8152.54,6812.0,10454.0
+Automotive,"Automotive parts, acc., and tire stores",June,8208.92,6923.0,10788.0
+Automotive,"Automotive parts, acc., and tire stores",March,8096.85,6642.0,10781.0
+Automotive,"Automotive parts, acc., and tire stores",May,8063.77,6451.0,10709.0
+Automotive,"Automotive parts, acc., and tire stores",November,7730.0,6505.0,10385.0
+Automotive,"Automotive parts, acc., and tire stores",October,8213.62,6797.0,10712.0
+Automotive,"Automotive parts, acc., and tire stores",September,7881.46,6734.0,10726.0
+Automotive,Motor vehicle and parts dealers,April,93372.15,64368.0,138891.0
+Automotive,Motor vehicle and parts dealers,August,100204.08,66074.0,135891.0
+Automotive,Motor vehicle and parts dealers,December,94735.46,64512.0,122663.0
+Automotive,Motor vehicle and parts dealers,February,83446.31,51822.0,116991.0
+Automotive,Motor vehicle and parts dealers,January,79805.62,49870.0,113548.0
+Automotive,Motor vehicle and parts dealers,July,97902.38,67006.0,129123.0
+Automotive,Motor vehicle and parts dealers,June,97137.92,64700.0,132559.0
+Automotive,Motor vehicle and parts dealers,March,98898.77,67448.0,141659.0
+Automotive,Motor vehicle and parts dealers,May,99454.77,65243.0,137600.0
+Automotive,Motor vehicle and parts dealers,November,88181.54,58830.0,117402.0
+Automotive,Motor vehicle and parts dealers,October,92704.08,61386.0,126610.0
+Automotive,Motor vehicle and parts dealers,September,91935.46,61654.0,125179.0
+Automotive,New car dealers,April,69438.31,47053.0,101980.0
+Automotive,New car dealers,August,75710.0,48858.0,99049.0
+Automotive,New car dealers,December,74748.69,49735.0,95023.0
+Automotive,New car dealers,February,62503.08,37155.0,86147.0
+Automotive,New car dealers,January,61034.08,37035.0,84442.0
+Automotive,New car dealers,July,73476.08,49697.0,95559.0
+Automotive,New car dealers,June,71855.08,46879.0,96934.0
+Automotive,New car dealers,March,73752.08,49926.0,104050.0
+Automotive,New car dealers,May,74439.0,48346.0,102538.0
+Automotive,New car dealers,November,67762.46,43813.0,88587.0
+Automotive,New car dealers,October,70310.08,45366.0,94219.0
+Automotive,New car dealers,September,69631.31,45610.0,91670.0
+Automotive,Used car dealers,April,9171.92,5957.0,15534.0
+Automotive,Used car dealers,August,9578.92,6288.0,14706.0
+Automotive,Used car dealers,December,7999.54,5522.0,12619.0
+Automotive,Used car dealers,February,9337.77,6300.0,12861.0
+Automotive,Used car dealers,January,7928.77,5127.0,12247.0
+Automotive,Used car dealers,July,9275.08,6183.0,13667.0
+Automotive,Used car dealers,June,9367.62,6195.0,14220.0
+Automotive,Used car dealers,March,10396.08,6580.0,16413.0
+Automotive,Used car dealers,May,9311.69,5857.0,14269.0
+Automotive,Used car dealers,November,8235.31,5530.0,13013.0
+Automotive,Used car dealers,October,8935.23,5710.0,14267.0
+Automotive,Used car dealers,September,8828.54,5951.0,14041.0
+Fashion & Accessories,Clothing and clothing access. stores,April,19224.69,2761.0,25904.0
+Fashion & Accessories,Clothing and clothing access. stores,August,22038.92,17923.0,26376.0
+Fashion & Accessories,Clothing and clothing access. stores,December,33734.31,28545.0,40629.0
+Fashion & Accessories,Clothing and clothing access. stores,February,17778.08,14816.0,20509.0
+Fashion & Accessories,Clothing and clothing access. stores,January,15506.69,13216.0,18113.0
+Fashion & Accessories,Clothing and clothing access. stores,July,20459.31,16842.0,25219.0
+Fashion & Accessories,Clothing and clothing access. stores,June,19979.77,16138.0,25031.0
+Fashion & Accessories,Clothing and clothing access. stores,March,20377.08,10958.0,25622.0
+Fashion & Accessories,Clothing and clothing access. stores,May,21008.0,8696.0,26831.0
+Fashion & Accessories,Clothing and clothing access. stores,November,23843.46,20003.0,29072.0
+Fashion & Accessories,Clothing and clothing access. stores,October,20659.77,17412.0,25120.0
+Fashion & Accessories,Clothing and clothing access. stores,September,19461.92,16232.0,23966.0
+Fashion & Accessories,Clothing stores,April,14009.92,1783.0,17794.0
+Fashion & Accessories,Clothing stores,August,15686.85,12877.0,17813.0
+Fashion & Accessories,Clothing stores,December,22836.69,19716.0,26510.0
+Fashion & Accessories,Clothing stores,February,12322.08,10488.0,13476.0
+Fashion & Accessories,Clothing stores,January,11316.62,9902.0,12368.0
+Fashion & Accessories,Clothing stores,July,14925.54,12078.0,17584.0
+Fashion & Accessories,Clothing stores,June,14588.54,11057.0,17280.0
+Fashion & Accessories,Clothing stores,March,14880.46,7618.0,17506.0
+Fashion & Accessories,Clothing stores,May,15045.77,5509.0,18360.0
+Fashion & Accessories,Clothing stores,November,17678.77,14933.0,20867.0
+Fashion & Accessories,Clothing stores,October,15284.08,13169.0,17886.0
+Fashion & Accessories,Clothing stores,September,14224.69,12322.0,16637.0
+Fashion & Accessories,Family clothing stores,April,7448.08,664.0,9716.0
+Fashion & Accessories,Family clothing stores,August,8789.08,7280.0,10291.0
+Fashion & Accessories,Family clothing stores,December,13049.54,11246.0,16137.0
+Fashion & Accessories,Family clothing stores,February,6516.62,5593.0,7457.0
+Fashion & Accessories,Family clothing stores,January,5926.31,4971.0,6832.0
+Fashion & Accessories,Family clothing stores,July,8398.0,6875.0,10241.0
+Fashion & Accessories,Family clothing stores,June,8007.23,6334.0,9933.0
+Fashion & Accessories,Family clothing stores,March,7967.15,4204.0,9583.0
+Fashion & Accessories,Family clothing stores,May,8110.08,3003.0,10174.0
+Fashion & Accessories,Family clothing stores,November,10021.85,8336.0,12348.0
+Fashion & Accessories,Family clothing stores,October,8493.0,6943.0,10394.0
+Fashion & Accessories,Family clothing stores,September,7737.54,6383.0,9421.0
+Fashion & Accessories,Jewelry stores,April,5087.35,474.0,21850.77
+Fashion & Accessories,Jewelry stores,August,5265.04,1811.0,21850.77
+Fashion & Accessories,Jewelry stores,December,8383.73,5087.0,21850.77
+Fashion & Accessories,Jewelry stores,February,4034.14,2093.0,21850.77
+Fashion & Accessories,Jewelry stores,January,3372.83,1496.0,21850.77
+Fashion & Accessories,Jewelry stores,July,5176.2,1816.0,21850.77
+Fashion & Accessories,Jewelry stores,June,5220.89,1802.0,21850.77
+Fashion & Accessories,Jewelry stores,March,5084.81,1427.0,21850.77
+Fashion & Accessories,Jewelry stores,May,5577.35,1436.0,21850.77
+Fashion & Accessories,Jewelry stores,November,5606.12,2392.0,21850.77
+Fashion & Accessories,Jewelry stores,October,5222.96,1906.0,21850.77
+Fashion & Accessories,Jewelry stores,September,5149.89,1684.0,21850.77
+Fashion & Accessories,Men's clothing stores,April,2334.83,93.0,21850.77
+Fashion & Accessories,Men's clothing stores,August,3914.12,412.0,21850.77
+Fashion & Accessories,Men's clothing stores,December,4235.5,664.0,21850.77
+Fashion & Accessories,Men's clothing stores,February,2217.6,389.0,21850.77
+Fashion & Accessories,Men's clothing stores,January,2200.98,385.0,21850.77
+Fashion & Accessories,Men's clothing stores,July,3897.66,441.0,21850.77
+Fashion & Accessories,Men's clothing stores,June,3945.96,330.0,21850.77
+Fashion & Accessories,Men's clothing stores,March,2292.21,319.0,21850.77
+Fashion & Accessories,Men's clothing stores,May,3983.43,170.0,21850.77
+Fashion & Accessories,Men's clothing stores,November,5647.79,669.0,21850.77
+Fashion & Accessories,Men's clothing stores,October,5618.87,634.0,21850.77
+Fashion & Accessories,Men's clothing stores,September,3937.5,438.0,21850.77
+Fashion & Accessories,Other clothing stores,April,1172.23,238.0,1506.0
+Fashion & Accessories,Other clothing stores,August,1344.62,897.0,1609.0
+Fashion & Accessories,Other clothing stores,December,1829.62,1398.0,2271.0
+Fashion & Accessories,Other clothing stores,February,1175.08,869.0,1446.0
+Fashion & Accessories,Other clothing stores,January,1169.62,945.0,1505.0
+Fashion & Accessories,Other clothing stores,July,1271.38,937.0,1604.0
+Fashion & Accessories,Other clothing stores,June,1315.08,901.0,1558.0
+Fashion & Accessories,Other clothing stores,March,1315.31,766.0,1581.0
+Fashion & Accessories,Other clothing stores,May,1232.62,548.0,1481.0
+Fashion & Accessories,Other clothing stores,November,1414.15,1035.0,1717.0
+Fashion & Accessories,Other clothing stores,October,1205.08,930.0,1372.0
+Fashion & Accessories,Other clothing stores,September,1177.0,839.0,1406.0
+Fashion & Accessories,Shoe stores,April,2667.54,473.0,3425.0
+Fashion & Accessories,Shoe stores,August,3614.77,2804.0,4264.0
+Fashion & Accessories,Shoe stores,December,3969.23,3106.0,4577.0
+Fashion & Accessories,Shoe stores,February,2547.46,2041.0,2942.0
+Fashion & Accessories,Shoe stores,January,2045.08,1706.0,2264.0
+Fashion & Accessories,Shoe stores,July,2888.31,2190.0,3520.0
+Fashion & Accessories,Shoe stores,June,2679.38,2026.0,3389.0
+Fashion & Accessories,Shoe stores,March,2949.46,1730.0,3746.0
+Fashion & Accessories,Shoe stores,May,2797.08,1662.0,3651.0
+Fashion & Accessories,Shoe stores,November,2936.69,2318.0,3498.0
+Fashion & Accessories,Shoe stores,October,2676.38,2173.0,3179.0
+Fashion & Accessories,Shoe stores,September,2635.15,2085.0,3209.0
+Fashion & Accessories,Women's clothing stores,April,3238.62,535.0,3628.0
+Fashion & Accessories,Women's clothing stores,August,3185.69,2590.0,3465.0
+Fashion & Accessories,Women's clothing stores,December,4498.08,3555.0,4905.0
+Fashion & Accessories,Women's clothing stores,February,2689.54,2149.0,3036.0
+Fashion & Accessories,Women's clothing stores,January,2410.15,2140.0,2660.0
+Fashion & Accessories,Women's clothing stores,July,3071.85,2567.0,3437.0
+Fashion & Accessories,Women's clothing stores,June,3129.15,2187.0,3374.0
+Fashion & Accessories,Women's clothing stores,March,3352.38,1568.0,3840.0
+Fashion & Accessories,Women's clothing stores,May,3414.31,1175.0,3757.0
+Fashion & Accessories,Women's clothing stores,November,3664.77,2920.0,3995.0
+Fashion & Accessories,Women's clothing stores,October,3284.77,2823.0,3491.0
+Fashion & Accessories,Women's clothing stores,September,3100.46,2665.0,3339.0
+Food & Beverage,"Beer, wine, and liquor stores",April,4136.38,3310.0,5710.0
+Food & Beverage,"Beer, wine, and liquor stores",August,4541.54,3454.0,5970.0
+Food & Beverage,"Beer, wine, and liquor stores",December,6013.46,4681.0,8018.0
+Food & Beverage,"Beer, wine, and liquor stores",February,3708.23,2916.0,5057.0
+Food & Beverage,"Beer, wine, and liquor stores",January,3666.92,2878.0,5031.0
+Food & Beverage,"Beer, wine, and liquor stores",July,4698.31,3657.0,6220.0
+Food & Beverage,"Beer, wine, and liquor stores",June,4517.31,3438.0,6038.0
+Food & Beverage,"Beer, wine, and liquor stores",March,4178.62,3214.0,5658.0
+Food & Beverage,"Beer, wine, and liquor stores",May,4544.69,3467.0,6016.0
+Food & Beverage,"Beer, wine, and liquor stores",November,4641.46,3524.0,6269.0
+Food & Beverage,"Beer, wine, and liquor stores",October,4447.08,3497.0,5969.0
+Food & Beverage,"Beer, wine, and liquor stores",September,4314.54,3365.0,5836.0
+Food & Beverage,Food and beverage stores,April,58713.31,47050.0,76368.0
+Food & Beverage,Food and beverage stores,August,61538.62,48357.0,80093.0
+Food & Beverage,Food and beverage stores,December,66619.23,53550.0,88686.0
+Food & Beverage,Food and beverage stores,February,54343.77,44275.0,69315.0
+Food & Beverage,Food and beverage stores,January,58079.38,47072.0,74984.0
+Food & Beverage,Food and beverage stores,July,62202.46,49732.0,81426.0
+Food & Beverage,Food and beverage stores,June,60510.0,47813.0,79471.0
+Food & Beverage,Food and beverage stores,March,60686.77,48123.0,80050.0
+Food & Beverage,Food and beverage stores,May,62274.23,49655.0,79628.0
+Food & Beverage,Food and beverage stores,November,61647.62,48842.0,82147.0
+Food & Beverage,Food and beverage stores,October,61073.46,48583.0,80891.0
+Food & Beverage,Food and beverage stores,September,59311.46,47478.0,78216.0
+Food & Beverage,Grocery stores,April,52771.31,42236.0,68404.0
+Food & Beverage,Grocery stores,August,55148.31,43431.0,71825.0
+Food & Beverage,Grocery stores,December,57904.54,46658.0,77546.0
+Food & Beverage,Grocery stores,February,49017.08,40061.0,62339.0
+Food & Beverage,Grocery stores,January,52835.69,42985.0,68099.0
+Food & Beverage,Grocery stores,July,55633.31,44559.0,72953.0
+Food & Beverage,Grocery stores,June,54139.23,42877.0,71214.0
+Food & Beverage,Grocery stores,March,54719.31,43434.0,73003.0
+Food & Beverage,Grocery stores,May,55822.62,44607.0,71460.0
+Food & Beverage,Grocery stores,November,55046.08,43724.0,73388.0
+Food & Beverage,Grocery stores,October,54763.62,43536.0,72607.0
+Food & Beverage,Grocery stores,September,53214.08,42642.0,70156.0
+Food & Beverage,Supermarkets and other grocery (except convenience) stores,April,50420.0,40354.0,65091.0
+Food & Beverage,Supermarkets and other grocery (except convenience) stores,August,52582.54,41357.0,68520.0
+Food & Beverage,Supermarkets and other grocery (except convenience) stores,December,55573.38,44770.0,74469.0
+Food & Beverage,Supermarkets and other grocery (except convenience) stores,February,46946.77,38400.0,59584.0
+Food & Beverage,Supermarkets and other grocery (except convenience) stores,January,50721.46,41185.0,65318.0
+Food & Beverage,Supermarkets and other grocery (except convenience) stores,July,53041.85,42598.0,69440.0
+Food & Beverage,Supermarkets and other grocery (except convenience) stores,June,51628.31,40944.0,67737.0
+Food & Beverage,Supermarkets and other grocery (except convenience) stores,March,52386.15,41542.0,70486.0
+Food & Beverage,Supermarkets and other grocery (except convenience) stores,May,53300.85,42658.0,68066.0
+Food & Beverage,Supermarkets and other grocery (except convenience) stores,November,52744.0,41897.0,70328.0
+Food & Beverage,Supermarkets and other grocery (except convenience) stores,October,52338.15,41591.0,69432.0
+Food & Beverage,Supermarkets and other grocery (except convenience) stores,September,50795.0,40710.0,67039.0
+Food & Beverage,Warehouse clubs and superstores,April,36966.31,29350.0,46432.0
+Food & Beverage,Warehouse clubs and superstores,August,39569.38,30574.0,49966.0
+Food & Beverage,Warehouse clubs and superstores,December,48302.31,39129.0,61072.0
+Food & Beverage,Warehouse clubs and superstores,February,34276.23,28258.0,40730.0
+Food & Beverage,Warehouse clubs and superstores,January,34972.62,28171.0,45340.0
+Food & Beverage,Warehouse clubs and superstores,July,38831.15,30555.0,50363.0
+Food & Beverage,Warehouse clubs and superstores,June,38497.23,29834.0,49897.0
+Food & Beverage,Warehouse clubs and superstores,March,38959.0,29852.0,49742.0
+Food & Beverage,Warehouse clubs and superstores,May,39413.23,31271.0,48612.0
+Food & Beverage,Warehouse clubs and superstores,November,42141.46,32462.0,54396.0
+Food & Beverage,Warehouse clubs and superstores,October,39066.62,30371.0,51314.0
+Food & Beverage,Warehouse clubs and superstores,September,36538.23,28166.0,47859.0
+Fuel & Gasoline,Fuel dealers,April,2625.08,1980.0,3553.0
+Fuel & Gasoline,Fuel dealers,August,1996.62,1506.0,2900.0
+Fuel & Gasoline,Fuel dealers,December,4219.46,2835.0,5477.0
+Fuel & Gasoline,Fuel dealers,February,4324.23,3352.0,5835.0
+Fuel & Gasoline,Fuel dealers,January,4839.54,3572.0,6632.0
+Fuel & Gasoline,Fuel dealers,July,1870.0,1370.0,2553.0
+Fuel & Gasoline,Fuel dealers,June,1948.23,1497.0,3207.0
+Fuel & Gasoline,Fuel dealers,March,3742.69,2575.0,5024.0
+Fuel & Gasoline,Fuel dealers,May,2196.0,1702.0,3492.0
+Fuel & Gasoline,Fuel dealers,November,3307.85,2395.0,4367.0
+Fuel & Gasoline,Fuel dealers,October,2785.15,2130.0,4074.0
+Fuel & Gasoline,Fuel dealers,September,2175.23,1666.0,3012.0
+Fuel & Gasoline,Gasoline stations,April,43392.23,26668.0,64776.0
+Fuel & Gasoline,Gasoline stations,August,47071.92,38541.0,67977.0
+Fuel & Gasoline,Gasoline stations,December,41373.54,33664.0,54203.0
+Fuel & Gasoline,Gasoline stations,February,37240.69,28976.0,49575.0
+Fuel & Gasoline,Gasoline stations,January,38402.77,31037.0,49098.0
+Fuel & Gasoline,Gasoline stations,July,47472.62,38709.0,74079.0
+Fuel & Gasoline,Gasoline stations,June,46697.08,36169.0,75341.0
+Fuel & Gasoline,Gasoline stations,March,43331.46,33574.0,64397.0
+Fuel & Gasoline,Gasoline stations,May,46806.0,31927.0,72883.0
+Fuel & Gasoline,Gasoline stations,November,42091.08,34063.0,59114.0
+Fuel & Gasoline,Gasoline stations,October,45647.62,37960.0,64674.0
+Fuel & Gasoline,Gasoline stations,September,44436.15,37044.0,61784.0
+General Merchandise,All other gen. merchandise stores,April,5950.0,4216.0,8349.0
+General Merchandise,All other gen. merchandise stores,August,5940.0,4029.0,8186.0
+General Merchandise,All other gen. merchandise stores,December,8041.46,5997.0,10825.0
+General Merchandise,All other gen. merchandise stores,February,5242.85,3679.0,6862.0
+General Merchandise,All other gen. merchandise stores,January,5051.0,3384.0,6794.0
+General Merchandise,All other gen. merchandise stores,July,5957.69,4106.0,8294.0
+General Merchandise,All other gen. merchandise stores,June,6105.62,4182.0,8607.0
+General Merchandise,All other gen. merchandise stores,March,6053.46,4158.0,8213.0
+General Merchandise,All other gen. merchandise stores,May,6398.54,4281.0,9144.0
+General Merchandise,All other gen. merchandise stores,November,6668.62,4709.0,9371.0
+General Merchandise,All other gen. merchandise stores,October,6171.08,4278.0,8466.0
+General Merchandise,All other gen. merchandise stores,September,5786.46,3990.0,8198.0
+General Merchandise,Department stores,April,11616.08,5880.0,14513.0
+General Merchandise,Department stores,August,12893.77,9765.0,14710.0
+General Merchandise,Department stores,December,21219.08,14490.0,26641.0
+General Merchandise,Department stores,February,10722.15,7882.0,13169.0
+General Merchandise,Department stores,January,10094.46,8236.0,12298.0
+General Merchandise,Department stores,July,11918.62,9285.0,13955.0
+General Merchandise,Department stores,June,12157.92,8964.0,14719.0
+General Merchandise,Department stores,March,12261.31,8067.0,14632.0
+General Merchandise,Department stores,May,12580.15,8686.0,14922.0
+General Merchandise,Department stores,November,15300.31,11165.0,18416.0
+General Merchandise,Department stores,October,12138.0,9615.0,14387.0
+General Merchandise,Department stores,September,11466.15,9072.0,13598.0
+General Merchandise,Department stores(excl. discount department stores),April,3712.15,11.0,5233.0
+General Merchandise,Department stores(excl. discount department stores),August,3770.77,1731.0,4976.0
+General Merchandise,Department stores(excl. discount department stores),December,7788.46,3469.0,10536.0
+General Merchandise,Department stores(excl. discount department stores),February,3414.08,1580.0,4551.0
+General Merchandise,Department stores(excl. discount department stores),January,2950.08,1265.0,3959.0
+General Merchandise,Department stores(excl. discount department stores),July,3555.85,1585.0,4781.0
+General Merchandise,Department stores(excl. discount department stores),June,3753.92,1519.0,5174.0
+General Merchandise,Department stores(excl. discount department stores),March,3797.92,1303.0,4970.0
+General Merchandise,Department stores(excl. discount department stores),May,4004.31,1048.0,5162.0
+General Merchandise,Department stores(excl. discount department stores),November,5089.85,2341.0,6630.0
+General Merchandise,Department stores(excl. discount department stores),October,3769.62,1901.0,5032.0
+General Merchandise,Department stores(excl. discount department stores),September,3631.77,1776.0,4895.0
+General Merchandise,Discount dept. stores,April,7903.92,5869.0,9280.0
+General Merchandise,Discount dept. stores,August,9123.0,8034.0,9824.0
+General Merchandise,Discount dept. stores,December,13430.62,11021.0,16105.0
+General Merchandise,Discount dept. stores,February,7308.08,6302.0,8618.0
+General Merchandise,Discount dept. stores,January,7144.38,6239.0,8388.0
+General Merchandise,Discount dept. stores,July,8362.77,7699.0,9302.0
+General Merchandise,Discount dept. stores,June,8404.0,7445.0,9545.0
+General Merchandise,Discount dept. stores,March,8463.38,6764.0,9762.0
+General Merchandise,Discount dept. stores,May,8575.85,7638.0,9789.0
+General Merchandise,Discount dept. stores,November,10210.46,8824.0,11809.0
+General Merchandise,Discount dept. stores,October,8368.38,7463.0,9355.0
+General Merchandise,Discount dept. stores,September,7834.38,6828.0,8703.0
+General Merchandise,General merchandise stores,April,54532.38,47749.0,65483.0
+General Merchandise,General merchandise stores,August,58403.15,49312.0,69704.0
+General Merchandise,General merchandise stores,December,77562.85,71767.0,88869.0
+General Merchandise,General merchandise stores,February,50241.23,44756.0,56575.0
+General Merchandise,General merchandise stores,January,50118.08,43853.0,60884.0
+General Merchandise,General merchandise stores,July,56707.46,48616.0,69456.0
+General Merchandise,General merchandise stores,June,56760.77,48289.0,69304.0
+General Merchandise,General merchandise stores,March,57273.77,48642.0,68779.0
+General Merchandise,General merchandise stores,May,58391.92,50474.0,68782.0
+General Merchandise,General merchandise stores,November,64110.38,55587.0,76493.0
+General Merchandise,General merchandise stores,October,57375.69,49036.0,70683.0
+General Merchandise,General merchandise stores,September,53790.85,45676.0,66464.0
+General Merchandise,Other general merchandise stores,April,42916.31,33566.0,54781.0
+General Merchandise,Other general merchandise stores,August,45509.38,34603.0,58152.0
+General Merchandise,Other general merchandise stores,December,56343.77,45126.0,71897.0
+General Merchandise,Other general merchandise stores,February,39519.08,31937.0,47592.0
+General Merchandise,Other general merchandise stores,January,40023.62,31555.0,52085.0
+General Merchandise,Other general merchandise stores,July,44788.85,34661.0,58657.0
+General Merchandise,Other general merchandise stores,June,44602.85,34016.0,58504.0
+General Merchandise,Other general merchandise stores,March,45012.46,34010.0,57955.0
+General Merchandise,Other general merchandise stores,May,45811.77,35552.0,57756.0
+General Merchandise,Other general merchandise stores,November,48810.08,37171.0,63767.0
+General Merchandise,Other general merchandise stores,October,45237.69,34649.0,59780.0
+General Merchandise,Other general merchandise stores,September,42324.69,32156.0,56057.0
+Health & Personal Care,Health and personal care stores,April,25857.15,21471.0,32435.0
+Health & Personal Care,Health and personal care stores,August,26801.85,21601.0,33985.0
+Health & Personal Care,Health and personal care stores,December,30162.46,24945.0,37423.0
+Health & Personal Care,Health and personal care stores,February,24668.15,20118.0,29947.0
+Health & Personal Care,Health and personal care stores,January,25874.62,20721.0,32224.0
+Health & Personal Care,Health and personal care stores,July,26136.38,21342.0,32430.0
+Health & Personal Care,Health and personal care stores,June,26199.92,21466.0,33459.0
+Health & Personal Care,Health and personal care stores,March,27284.46,22474.0,33648.0
+Health & Personal Care,Health and personal care stores,May,26478.92,21335.0,32952.0
+Health & Personal Care,Health and personal care stores,November,26437.0,21869.0,33665.0
+Health & Personal Care,Health and personal care stores,October,27112.23,21796.0,34038.0
+Health & Personal Care,Health and personal care stores,September,26143.38,21297.0,33491.0
+Health & Personal Care,Pharmacies and drug stores,April,21864.31,18340.0,26772.0
+Health & Personal Care,Pharmacies and drug stores,August,22310.62,18328.0,27872.0
+Health & Personal Care,Pharmacies and drug stores,December,24497.69,20632.0,30120.0
+Health & Personal Care,Pharmacies and drug stores,February,20653.62,17171.0,24847.0
+Health & Personal Care,Pharmacies and drug stores,January,21968.0,17874.0,27297.0
+Health & Personal Care,Pharmacies and drug stores,July,21906.31,18170.0,26913.0
+Health & Personal Care,Pharmacies and drug stores,June,21869.15,18372.0,27520.0
+Health & Personal Care,Pharmacies and drug stores,March,22743.62,19214.0,27661.0
+Health & Personal Care,Pharmacies and drug stores,May,22310.08,18295.0,27158.0
+Health & Personal Care,Pharmacies and drug stores,November,21969.69,18700.0,27503.0
+Health & Personal Care,Pharmacies and drug stores,October,22863.85,18611.0,28294.0
+Health & Personal Care,Pharmacies and drug stores,September,21777.31,17847.0,27501.0
+Home Goods & Building Supplies,Building mat. and garden equip. and supplies dealers,April,32622.23,24378.0,46533.0
+Home Goods & Building Supplies,Building mat. and garden equip. and supplies dealers,August,30313.23,21698.0,45165.0
+Home Goods & Building Supplies,Building mat. and garden equip. and supplies dealers,December,27317.54,20277.0,38763.0
+Home Goods & Building Supplies,Building mat. and garden equip. and supplies dealers,February,22196.69,15469.0,33529.0
+Home Goods & Building Supplies,Building mat. and garden equip. and supplies dealers,January,22667.0,15348.0,33771.0
+Home Goods & Building Supplies,Building mat. and garden equip. and supplies dealers,July,31255.77,23100.0,43487.0
+Home Goods & Building Supplies,Building mat. and garden equip. and supplies dealers,June,33612.15,25451.0,48211.0
+Home Goods & Building Supplies,Building mat. and garden equip. and supplies dealers,March,29122.77,21691.0,44478.0
+Home Goods & Building Supplies,Building mat. and garden equip. and supplies dealers,May,35771.85,26238.0,50099.0
+Home Goods & Building Supplies,Building mat. and garden equip. and supplies dealers,November,28664.46,21462.0,40441.0
+Home Goods & Building Supplies,Building mat. and garden equip. and supplies dealers,October,30209.31,21883.0,43024.0
+Home Goods & Building Supplies,Building mat. and garden equip. and supplies dealers,September,29051.0,21261.0,42628.0
+Home Goods & Building Supplies,Building mat. and supplies dealers,April,27274.85,20310.0,39589.0
+Home Goods & Building Supplies,Building mat. and supplies dealers,August,26976.54,19349.0,39905.0
+Home Goods & Building Supplies,Building mat. and supplies dealers,December,23732.69,17654.0,33417.0
+Home Goods & Building Supplies,Building mat. and supplies dealers,February,19575.15,13750.0,29463.0
+Home Goods & Building Supplies,Building mat. and supplies dealers,January,20105.85,13738.0,29770.0
+Home Goods & Building Supplies,Building mat. and supplies dealers,July,27635.69,20304.0,38336.0
+Home Goods & Building Supplies,Building mat. and supplies dealers,June,28883.62,21652.0,41870.0
+Home Goods & Building Supplies,Building mat. and supplies dealers,March,25131.31,18974.0,38803.0
+Home Goods & Building Supplies,Building mat. and supplies dealers,May,29976.54,21871.0,42979.0
+Home Goods & Building Supplies,Building mat. and supplies dealers,November,25244.62,18714.0,35367.0
+Home Goods & Building Supplies,Building mat. and supplies dealers,October,26535.54,18985.0,37452.0
+Home Goods & Building Supplies,Building mat. and supplies dealers,September,25794.77,18915.0,37504.0
+Home Goods & Building Supplies,Hardware stores,April,2357.31,1730.0,3479.0
+Home Goods & Building Supplies,Hardware stores,August,2301.08,1502.0,3536.0
+Home Goods & Building Supplies,Hardware stores,December,2298.0,1700.0,3590.0
+Home Goods & Building Supplies,Hardware stores,February,1756.31,1227.0,2631.0
+Home Goods & Building Supplies,Hardware stores,January,1842.92,1272.0,2728.0
+Home Goods & Building Supplies,Hardware stores,July,2328.85,1614.0,3540.0
+Home Goods & Building Supplies,Hardware stores,June,2491.69,1714.0,3839.0
+Home Goods & Building Supplies,Hardware stores,March,2162.46,1498.0,3252.0
+Home Goods & Building Supplies,Hardware stores,May,2622.92,1825.0,3895.0
+Home Goods & Building Supplies,Hardware stores,November,2216.54,1631.0,3396.0
+Home Goods & Building Supplies,Hardware stores,October,2303.85,1524.0,3478.0
+Home Goods & Building Supplies,Hardware stores,September,2172.62,1455.0,3370.0
+Home Goods & Building Supplies,Paint and wallpaper stores,April,954.54,703.0,1386.0
+Home Goods & Building Supplies,Paint and wallpaper stores,August,1104.15,784.0,1594.0
+Home Goods & Building Supplies,Paint and wallpaper stores,December,777.92,517.0,1151.0
+Home Goods & Building Supplies,Paint and wallpaper stores,February,749.46,484.0,1096.0
+Home Goods & Building Supplies,Paint and wallpaper stores,January,741.62,466.0,1051.0
+Home Goods & Building Supplies,Paint and wallpaper stores,July,1077.77,774.0,1470.0
+Home Goods & Building Supplies,Paint and wallpaper stores,June,1096.85,791.0,1608.0
+Home Goods & Building Supplies,Paint and wallpaper stores,March,947.92,670.0,1424.0
+Home Goods & Building Supplies,Paint and wallpaper stores,May,1036.92,708.0,1494.0
+Home Goods & Building Supplies,Paint and wallpaper stores,November,873.31,638.0,1302.0
+Home Goods & Building Supplies,Paint and wallpaper stores,October,1027.54,682.0,1523.0
+Home Goods & Building Supplies,Paint and wallpaper stores,September,1040.08,736.0,1577.0
+Home Goods & Electronics,All other home furnishings stores,April,4931.27,356.0,21850.77
+Home Goods & Electronics,All other home furnishings stores,August,5320.27,1861.0,21850.77
+Home Goods & Electronics,All other home furnishings stores,December,7887.02,3244.0,21850.77
+Home Goods & Electronics,All other home furnishings stores,February,4944.58,1467.0,21850.77
+Home Goods & Electronics,All other home furnishings stores,January,5070.81,1563.0,21850.77
+Home Goods & Electronics,All other home furnishings stores,July,5234.04,1867.0,21850.77
+Home Goods & Electronics,All other home furnishings stores,June,5094.43,1709.0,21850.77
+Home Goods & Electronics,All other home furnishings stores,March,5107.96,1488.0,21850.77
+Home Goods & Electronics,All other home furnishings stores,May,5117.96,1184.0,21850.77
+Home Goods & Electronics,All other home furnishings stores,November,7182.64,2362.0,21850.77
+Home Goods & Electronics,All other home furnishings stores,October,6722.49,1739.0,21850.77
+Home Goods & Electronics,All other home furnishings stores,September,5169.73,1780.0,21850.77
+Home Goods & Electronics,Electronic shopping and mail-order houses,April,44112.38,20385.0,92322.0
+Home Goods & Electronics,Electronic shopping and mail-order houses,August,46836.38,21602.0,97508.0
+Home Goods & Electronics,Electronic shopping and mail-order houses,December,66373.38,32975.0,122574.0
+Home Goods & Electronics,Electronic shopping and mail-order houses,February,38807.92,18419.0,82090.0
+Home Goods & Electronics,Electronic shopping and mail-order houses,January,41104.15,19565.0,87596.0
+Home Goods & Electronics,Electronic shopping and mail-order houses,July,45069.92,19875.0,93574.0
+Home Goods & Electronics,Electronic shopping and mail-order houses,June,44826.38,21027.0,91389.0
+Home Goods & Electronics,Electronic shopping and mail-order houses,March,43874.92,21629.0,88881.0
+Home Goods & Electronics,Electronic shopping and mail-order houses,May,45949.85,20021.0,95798.0
+Home Goods & Electronics,Electronic shopping and mail-order houses,November,55921.08,25275.0,114374.0
+Home Goods & Electronics,Electronic shopping and mail-order houses,October,47715.85,21388.0,97131.0
+Home Goods & Electronics,Electronic shopping and mail-order houses,September,44927.85,21327.0,92116.0
+Home Goods & Electronics,Electronics and appliance stores,April,6738.92,3013.0,7358.0
+Home Goods & Electronics,Electronics and appliance stores,August,7869.15,6765.0,8474.0
+Home Goods & Electronics,Electronics and appliance stores,December,11718.62,9118.0,13534.0
+Home Goods & Electronics,Electronics and appliance stores,February,7283.69,6121.0,8261.0
+Home Goods & Electronics,Electronics and appliance stores,January,7421.77,6718.0,8168.0
+Home Goods & Electronics,Electronics and appliance stores,July,7576.85,6478.0,8190.0
+Home Goods & Electronics,Electronics and appliance stores,June,7448.08,5583.0,8009.0
+Home Goods & Electronics,Electronics and appliance stores,March,7687.85,5778.0,8507.0
+Home Goods & Electronics,Electronics and appliance stores,May,7213.31,3914.0,7955.0
+Home Goods & Electronics,Electronics and appliance stores,November,9528.23,7946.0,10679.0
+Home Goods & Electronics,Electronics and appliance stores,October,7461.23,6781.0,8063.0
+Home Goods & Electronics,Electronics and appliance stores,September,7480.0,6383.0,8178.0
+Home Goods & Electronics,Electronics stores,April,5385.15,1888.0,6154.0
+Home Goods & Electronics,Electronics stores,August,6352.77,5035.0,7100.0
+Home Goods & Electronics,Electronics stores,December,10124.54,7445.0,11921.0
+Home Goods & Electronics,Electronics stores,February,5999.92,4651.0,6991.0
+Home Goods & Electronics,Electronics stores,January,6150.85,5171.0,6927.0
+Home Goods & Electronics,Electronics stores,July,6055.46,4761.0,6816.0
+Home Goods & Electronics,Electronics stores,June,5929.92,3912.0,6630.0
+Home Goods & Electronics,Electronics stores,March,6251.46,4495.0,7182.0
+Home Goods & Electronics,Electronics stores,May,5722.08,2480.0,6555.0
+Home Goods & Electronics,Electronics stores,November,7915.31,6186.0,9076.0
+Home Goods & Electronics,Electronics stores,October,6014.23,5082.0,6621.0
+Home Goods & Electronics,Electronics stores,September,6020.92,4737.0,6732.0
+Home Goods & Electronics,Floor covering stores,April,10841.97,1127.0,21850.77
+Home Goods & Electronics,Floor covering stores,August,10954.59,1381.0,21850.77
+Home Goods & Electronics,Floor covering stores,December,10840.43,1110.0,21850.77
+Home Goods & Electronics,Floor covering stores,February,9166.6,959.0,21850.77
+Home Goods & Electronics,Floor covering stores,January,9162.14,947.0,21850.77
+Home Goods & Electronics,Floor covering stores,July,10899.74,1271.0,21850.77
+Home Goods & Electronics,Floor covering stores,June,10894.43,1295.0,21850.77
+Home Goods & Electronics,Floor covering stores,March,10837.97,1211.0,21850.77
+Home Goods & Electronics,Floor covering stores,May,10867.74,1121.0,21850.77
+Home Goods & Electronics,Floor covering stores,November,10857.05,1165.0,21850.77
+Home Goods & Electronics,Floor covering stores,October,10912.43,1245.0,21850.77
+Home Goods & Electronics,Floor covering stores,September,10898.97,1287.0,21850.77
+Home Goods & Electronics,Furniture and home furnishings stores,April,8344.15,3852.0,12197.0
+Home Goods & Electronics,Furniture and home furnishings stores,August,9681.08,7330.0,12534.0
+Home Goods & Electronics,Furniture and home furnishings stores,December,10701.0,8482.0,12678.0
+Home Goods & Electronics,Furniture and home furnishings stores,February,8175.77,6468.0,10685.0
+Home Goods & Electronics,Furniture and home furnishings stores,January,8207.23,6244.0,10432.0
+Home Goods & Electronics,Furniture and home furnishings stores,July,9291.92,7241.0,12027.0
+Home Goods & Electronics,Furniture and home furnishings stores,June,9025.08,6902.0,11863.0
+Home Goods & Electronics,Furniture and home furnishings stores,March,9213.23,7271.0,12533.0
+Home Goods & Electronics,Furniture and home furnishings stores,May,9032.77,6932.0,12180.0
+Home Goods & Electronics,Furniture and home furnishings stores,November,10022.85,7630.0,12795.0
+Home Goods & Electronics,Furniture and home furnishings stores,October,9295.92,6793.0,12040.0
+Home Goods & Electronics,Furniture and home furnishings stores,September,9337.15,7101.0,11974.0
+Home Goods & Electronics,Furniture stores,April,4541.69,1962.0,6770.0
+Home Goods & Electronics,Furniture stores,August,5206.31,3997.0,6778.0
+Home Goods & Electronics,Furniture stores,December,5218.23,4050.0,6623.0
+Home Goods & Electronics,Furniture stores,February,4643.62,3834.0,5996.0
+Home Goods & Electronics,Furniture stores,January,4525.15,3576.0,6009.0
+Home Goods & Electronics,Furniture stores,July,5061.85,3964.0,6669.0
+Home Goods & Electronics,Furniture stores,June,4944.69,3749.0,6692.0
+Home Goods & Electronics,Furniture stores,March,5167.38,4091.0,7074.0
+Home Goods & Electronics,Furniture stores,May,4975.08,3861.0,6758.0
+Home Goods & Electronics,Furniture stores,November,5246.62,4009.0,6821.0
+Home Goods & Electronics,Furniture stores,October,4993.54,3714.0,6638.0
+Home Goods & Electronics,Furniture stores,September,5163.77,3933.0,6734.0
+Home Goods & Electronics,"Furniture, home furn, electronics, and appliance stores",April,15083.08,6865.0,19297.0
+Home Goods & Electronics,"Furniture, home furn, electronics, and appliance stores",August,17550.23,15467.0,19945.0
+Home Goods & Electronics,"Furniture, home furn, electronics, and appliance stores",December,22419.62,21160.0,23802.0
+Home Goods & Electronics,"Furniture, home furn, electronics, and appliance stores",February,15459.46,14276.0,17111.0
+Home Goods & Electronics,"Furniture, home furn, electronics, and appliance stores",January,15629.0,13829.0,17275.0
+Home Goods & Electronics,"Furniture, home furn, electronics, and appliance stores",July,16868.77,15203.0,19947.0
+Home Goods & Electronics,"Furniture, home furn, electronics, and appliance stores",June,16473.15,14876.0,19621.0
+Home Goods & Electronics,"Furniture, home furn, electronics, and appliance stores",March,16901.08,13815.0,20276.0
+Home Goods & Electronics,"Furniture, home furn, electronics, and appliance stores",May,16246.08,11059.0,19426.0
+Home Goods & Electronics,"Furniture, home furn, electronics, and appliance stores",November,19551.08,17115.0,21735.0
+Home Goods & Electronics,"Furniture, home furn, electronics, and appliance stores",October,16757.15,14116.0,19936.0
+Home Goods & Electronics,"Furniture, home furn, electronics, and appliance stores",September,16817.15,14755.0,19522.0
+Home Goods & Electronics,Home furnishings stores,April,6344.35,1890.0,21850.77
+Home Goods & Electronics,Home furnishings stores,August,6966.81,3333.0,21850.77
+Home Goods & Electronics,Home furnishings stores,December,9147.72,4432.0,21850.77
+Home Goods & Electronics,Home furnishings stores,February,6205.5,2617.0,21850.77
+Home Goods & Electronics,Home furnishings stores,January,6328.58,2641.0,21850.77
+Home Goods & Electronics,Home furnishings stores,July,6773.73,3239.0,21850.77
+Home Goods & Electronics,Home furnishings stores,June,6634.73,3153.0,21850.77
+Home Goods & Electronics,Home furnishings stores,March,6570.43,3180.0,21850.77
+Home Goods & Electronics,Home furnishings stores,May,6603.58,2958.0,21850.77
+Home Goods & Electronics,Home furnishings stores,November,8508.64,3621.0,21850.77
+Home Goods & Electronics,Home furnishings stores,October,8140.49,3079.0,21850.77
+Home Goods & Electronics,Home furnishings stores,September,6723.35,3168.0,21850.77
+Home Goods & Electronics,Household appliance stores,April,1353.77,1125.0,1829.0
+Home Goods & Electronics,Household appliance stores,August,1516.38,1291.0,1831.0
+Home Goods & Electronics,Household appliance stores,December,1594.08,1417.0,1747.0
+Home Goods & Electronics,Household appliance stores,February,1283.77,1130.0,1564.0
+Home Goods & Electronics,Household appliance stores,January,1270.92,1077.0,1606.0
+Home Goods & Electronics,Household appliance stores,July,1521.38,1334.0,1831.0
+Home Goods & Electronics,Household appliance stores,June,1518.15,1314.0,1889.0
+Home Goods & Electronics,Household appliance stores,March,1436.38,1215.0,1930.0
+Home Goods & Electronics,Household appliance stores,May,1491.23,1274.0,1791.0
+Home Goods & Electronics,Household appliance stores,November,1612.92,1460.0,1834.0
+Home Goods & Electronics,Household appliance stores,October,1447.0,1192.0,1769.0
+Home Goods & Electronics,Household appliance stores,September,1459.08,1226.0,1785.0
+Miscellaneous,Miscellaneous store retailers,April,9904.23,7033.0,15685.0
+Miscellaneous,Miscellaneous store retailers,August,11125.92,8785.0,16558.0
+Miscellaneous,Miscellaneous store retailers,December,11944.46,10291.0,16287.0
+Miscellaneous,Miscellaneous store retailers,February,9028.85,7362.0,12836.0
+Miscellaneous,Miscellaneous store retailers,January,8924.0,7244.0,12496.0
+Miscellaneous,Miscellaneous store retailers,July,10817.46,8740.0,16200.0
+Miscellaneous,Miscellaneous store retailers,June,11001.69,9232.0,17004.0
+Miscellaneous,Miscellaneous store retailers,March,10035.31,8458.0,15191.0
+Miscellaneous,Miscellaneous store retailers,May,11317.08,9048.0,17155.0
+Miscellaneous,Miscellaneous store retailers,November,10726.15,8748.0,14909.0
+Miscellaneous,Miscellaneous store retailers,October,11271.54,9159.0,16279.0
+Miscellaneous,Miscellaneous store retailers,September,10617.92,8797.0,15904.0
+Miscellaneous,Nonstore retailers,April,51109.15,26480.0,102317.0
+Miscellaneous,Nonstore retailers,August,53405.15,27180.0,107724.0
+Miscellaneous,Nonstore retailers,December,75173.38,41336.0,135012.0
+Miscellaneous,Nonstore retailers,February,47044.54,25743.0,92870.0
+Miscellaneous,Nonstore retailers,January,49851.23,27365.0,98618.0
+Miscellaneous,Nonstore retailers,July,51407.77,25188.0,102719.0
+Miscellaneous,Nonstore retailers,June,51339.69,26773.0,101402.0
+Miscellaneous,Nonstore retailers,March,52143.54,28768.0,100752.0
+Miscellaneous,Nonstore retailers,May,52732.77,25502.0,106024.0
+Miscellaneous,Nonstore retailers,November,63760.85,31867.0,125765.0
+Miscellaneous,Nonstore retailers,October,55236.46,27550.0,108289.0
+Miscellaneous,Nonstore retailers,September,51553.62,27205.0,101908.0
+Miscellaneous,Used merchandise stores,April,1321.23,454.0,2086.0
+Miscellaneous,Used merchandise stores,August,1488.46,973.0,2106.0
+Miscellaneous,Used merchandise stores,December,1454.77,1217.0,1998.0
+Miscellaneous,Used merchandise stores,February,1264.69,866.0,1712.0
+Miscellaneous,Used merchandise stores,January,1237.31,822.0,1649.0
+Miscellaneous,Used merchandise stores,July,1420.69,977.0,2282.0
+Miscellaneous,Used merchandise stores,June,1346.15,883.0,2067.0
+Miscellaneous,Used merchandise stores,March,1412.85,1013.0,2187.0
+Miscellaneous,Used merchandise stores,May,1365.92,946.0,2118.0
+Miscellaneous,Used merchandise stores,November,1487.46,1014.0,2169.0
+Miscellaneous,Used merchandise stores,October,1559.54,1100.0,2065.0
+Miscellaneous,Used merchandise stores,September,1401.77,974.0,1951.0
+Office Supplies & Gifts,"Gift, novelty, and souvenir stores",April,1187.77,230.0,1531.0
+Office Supplies & Gifts,"Gift, novelty, and souvenir stores",August,1470.85,1203.0,2075.0
+Office Supplies & Gifts,"Gift, novelty, and souvenir stores",December,2175.23,1798.0,2466.0
+Office Supplies & Gifts,"Gift, novelty, and souvenir stores",February,1106.31,949.0,1191.0
+Office Supplies & Gifts,"Gift, novelty, and souvenir stores",January,1002.92,896.0,1093.0
+Office Supplies & Gifts,"Gift, novelty, and souvenir stores",July,1519.08,1252.0,1970.0
+Office Supplies & Gifts,"Gift, novelty, and souvenir stores",June,1425.38,935.0,1823.0
+Office Supplies & Gifts,"Gift, novelty, and souvenir stores",March,1191.85,797.0,1492.0
+Office Supplies & Gifts,"Gift, novelty, and souvenir stores",May,1423.54,556.0,1836.0
+Office Supplies & Gifts,"Gift, novelty, and souvenir stores",November,1479.54,1281.0,1697.0
+Office Supplies & Gifts,"Gift, novelty, and souvenir stores",October,1974.23,1542.0,2718.0
+Office Supplies & Gifts,"Gift, novelty, and souvenir stores",September,1442.69,1182.0,2044.0
+Office Supplies & Gifts,Office supplies and stationery stores,April,1058.77,613.0,1480.0
+Office Supplies & Gifts,Office supplies and stationery stores,August,1498.46,1084.0,1912.0
+Office Supplies & Gifts,Office supplies and stationery stores,December,1213.85,866.0,1675.0
+Office Supplies & Gifts,Office supplies and stationery stores,February,1119.15,755.0,1550.0
+Office Supplies & Gifts,Office supplies and stationery stores,January,1277.46,824.0,1738.0
+Office Supplies & Gifts,Office supplies and stationery stores,July,1080.08,815.0,1418.0
+Office Supplies & Gifts,Office supplies and stationery stores,June,997.54,749.0,1393.0
+Office Supplies & Gifts,Office supplies and stationery stores,March,1174.23,878.0,1628.0
+Office Supplies & Gifts,Office supplies and stationery stores,May,1050.38,718.0,1411.0
+Office Supplies & Gifts,Office supplies and stationery stores,November,1040.38,729.0,1462.0
+Office Supplies & Gifts,Office supplies and stationery stores,October,1068.38,781.0,1448.0
+Office Supplies & Gifts,Office supplies and stationery stores,September,1213.23,861.0,1687.0
+Office Supplies & Gifts,"Office supplies, stationery, and gift stores",April,2246.54,843.0,2562.0
+Office Supplies & Gifts,"Office supplies, stationery, and gift stores",August,2969.31,2330.0,3265.0
+Office Supplies & Gifts,"Office supplies, stationery, and gift stores",December,3389.08,2729.0,3929.0
+Office Supplies & Gifts,"Office supplies, stationery, and gift stores",February,2225.46,1729.0,2694.0
+Office Supplies & Gifts,"Office supplies, stationery, and gift stores",January,2280.38,1823.0,2647.0
+Office Supplies & Gifts,"Office supplies, stationery, and gift stores",July,2599.15,2140.0,2845.0
+Office Supplies & Gifts,"Office supplies, stationery, and gift stores",June,2422.92,1728.0,2633.0
+Office Supplies & Gifts,"Office supplies, stationery, and gift stores",March,2366.08,1675.0,2697.0
+Office Supplies & Gifts,"Office supplies, stationery, and gift stores",May,2473.92,1274.0,2790.0
+Office Supplies & Gifts,"Office supplies, stationery, and gift stores",November,2519.92,2020.0,2957.0
+Office Supplies & Gifts,"Office supplies, stationery, and gift stores",October,3042.62,2790.0,3503.0
+Office Supplies & Gifts,"Office supplies, stationery, and gift stores",September,2655.92,2285.0,2916.0
+Restaurants & Bars,Drinking places,April,9524.76,1658.0,21850.77
+Restaurants & Bars,Drinking places,August,9555.76,1717.0,21850.77
+Restaurants & Bars,Drinking places,December,9559.3,1705.0,21850.77
+Restaurants & Bars,Drinking places,February,7924.16,1572.0,21850.77
+Restaurants & Bars,Drinking places,January,7923.62,1545.0,21850.77
+Restaurants & Bars,Drinking places,July,9561.99,1707.0,21850.77
+Restaurants & Bars,Drinking places,June,9521.53,1680.0,21850.77
+Restaurants & Bars,Drinking places,March,9607.6,1736.0,21850.77
+Restaurants & Bars,Drinking places,May,9568.83,1690.0,21850.77
+Restaurants & Bars,Drinking places,November,9507.37,1631.0,21850.77
+Restaurants & Bars,Drinking places,October,9570.76,1720.0,21850.77
+Restaurants & Bars,Drinking places,September,9529.07,1673.0,21850.77
+Restaurants & Bars,Food services and drinking places,April,53766.54,31169.0,86931.0
+Restaurants & Bars,Food services and drinking places,August,57895.77,40308.0,89313.0
+Restaurants & Bars,Food services and drinking places,December,57891.0,39785.0,90561.0
+Restaurants & Bars,Food services and drinking places,February,50154.69,35359.0,72739.0
+Restaurants & Bars,Food services and drinking places,January,49829.0,35513.0,69815.0
+Restaurants & Bars,Food services and drinking places,July,57570.08,41024.0,89304.0
+Restaurants & Bars,Food services and drinking places,June,56480.85,39421.0,88002.0
+Restaurants & Bars,Food services and drinking places,March,55875.08,39374.0,84777.0
+Restaurants & Bars,Food services and drinking places,May,57236.31,40785.0,90527.0
+Restaurants & Bars,Food services and drinking places,November,54402.69,37447.0,83827.0
+Restaurants & Bars,Food services and drinking places,October,57697.92,40150.0,90778.0
+Restaurants & Bars,Food services and drinking places,September,55468.69,38361.0,87314.0
+Restaurants & Bars,Full service restaurants,April,22031.72,16980.0,26810.0
+Restaurants & Bars,Full service restaurants,August,22482.64,16981.0,29542.0
+Restaurants & Bars,Full service restaurants,December,23373.25,17219.0,30281.0
+Restaurants & Bars,Full service restaurants,February,20788.33,15211.0,24772.0
+Restaurants & Bars,Full service restaurants,January,21257.04,15498.0,27604.0
+Restaurants & Bars,Full service restaurants,July,22442.87,17545.0,28901.0
+Restaurants & Bars,Full service restaurants,June,22235.1,16714.0,28875.0
+Restaurants & Bars,Full service restaurants,March,22804.33,17098.0,28303.0
+Restaurants & Bars,Full service restaurants,May,22885.72,17621.0,29334.0
+Restaurants & Bars,Full service restaurants,November,21381.72,15557.0,27526.0
+Restaurants & Bars,Full service restaurants,October,21883.64,16566.0,27763.0
+Restaurants & Bars,Full service restaurants,September,21220.79,15709.0,26749.0
+Restaurants & Bars,Limited service eating places,April,23887.08,16819.0,36888.0
+Restaurants & Bars,Limited service eating places,August,25879.23,17897.0,39006.0
+Restaurants & Bars,Limited service eating places,December,24897.54,17138.0,37359.0
+Restaurants & Bars,Limited service eating places,February,21592.62,15325.0,31162.0
+Restaurants & Bars,Limited service eating places,January,21895.23,15454.0,31383.0
+Restaurants & Bars,Limited service eating places,July,26047.15,18053.0,39599.0
+Restaurants & Bars,Limited service eating places,June,25375.54,17395.0,38502.0
+Restaurants & Bars,Limited service eating places,March,24557.77,17064.0,36396.0
+Restaurants & Bars,Limited service eating places,May,25446.62,17531.0,38701.0
+Restaurants & Bars,Limited service eating places,November,23850.92,16480.0,35718.0
+Restaurants & Bars,Limited service eating places,October,25161.62,17550.0,38267.0
+Restaurants & Bars,Limited service eating places,September,24217.62,16551.0,36942.0
+Restaurants & Bars,Restaurants and other eating places,April,46828.85,28161.0,75364.0
+Restaurants & Bars,Restaurants and other eating places,August,50871.31,34878.0,78204.0
+Restaurants & Bars,Restaurants and other eating places,December,50703.69,34357.0,78113.0
+Restaurants & Bars,Restaurants and other eating places,February,43745.92,30536.0,63755.0
+Restaurants & Bars,Restaurants and other eating places,January,43846.38,30952.0,62002.0
+Restaurants & Bars,Restaurants and other eating places,July,51049.77,35598.0,78939.0
+Restaurants & Bars,Restaurants and other eating places,June,49795.0,34109.0,76718.0
+Restaurants & Bars,Restaurants and other eating places,March,48911.0,34162.0,74083.0
+Restaurants & Bars,Restaurants and other eating places,May,50122.38,35152.0,78567.0
+Restaurants & Bars,Restaurants and other eating places,November,47080.08,32037.0,71661.0
+Restaurants & Bars,Restaurants and other eating places,October,49578.54,34116.0,77253.0
+Restaurants & Bars,Restaurants and other eating places,September,47611.15,32260.0,74528.0
+Sports & Recreation,Book stores,April,638.38,168.0,858.0
+Sports & Recreation,Book stores,August,1461.77,725.0,2142.0
+Sports & Recreation,Book stores,December,1243.15,844.0,1879.0
+Sports & Recreation,Book stores,February,690.69,430.0,960.0
+Sports & Recreation,Book stores,January,1384.46,769.0,2150.0
+Sports & Recreation,Book stores,July,687.69,412.0,1003.0
+Sports & Recreation,Book stores,June,697.92,366.0,1020.0
+Sports & Recreation,Book stores,March,669.15,388.0,948.0
+Sports & Recreation,Book stores,May,736.23,259.0,1015.0
+Sports & Recreation,Book stores,November,704.85,465.0,978.0
+Sports & Recreation,Book stores,October,679.77,427.0,905.0
+Sports & Recreation,Book stores,September,1002.62,583.0,1400.0
+Sports & Recreation,"Hobby, toy, and game stores",April,1229.62,354.0,1886.0
+Sports & Recreation,"Hobby, toy, and game stores",August,1300.23,1046.0,1984.0
+Sports & Recreation,"Hobby, toy, and game stores",December,3052.38,2102.0,3572.0
+Sports & Recreation,"Hobby, toy, and game stores",February,1196.08,1005.0,1671.0
+Sports & Recreation,"Hobby, toy, and game stores",January,1174.77,958.0,1626.0
+Sports & Recreation,"Hobby, toy, and game stores",July,1264.46,1046.0,1845.0
+Sports & Recreation,"Hobby, toy, and game stores",June,1239.0,1030.0,1699.0
+Sports & Recreation,"Hobby, toy, and game stores",March,1369.38,850.0,1941.0
+Sports & Recreation,"Hobby, toy, and game stores",May,1283.38,1036.0,1855.0
+Sports & Recreation,"Hobby, toy, and game stores",November,2249.77,1945.0,3149.0
+Sports & Recreation,"Hobby, toy, and game stores",October,1483.69,1252.0,2137.0
+Sports & Recreation,"Hobby, toy, and game stores",September,1360.62,1080.0,2049.0
+Sports & Recreation,Sporting goods stores,April,3730.62,2565.0,5760.0
+Sports & Recreation,Sporting goods stores,August,4449.69,3415.0,6182.0
+Sports & Recreation,Sporting goods stores,December,5895.54,4894.0,7742.0
+Sports & Recreation,Sporting goods stores,February,3025.23,2303.0,4201.0
+Sports & Recreation,Sporting goods stores,January,2971.62,2373.0,4071.0
+Sports & Recreation,Sporting goods stores,July,4242.54,3266.0,5944.0
+Sports & Recreation,Sporting goods stores,June,4436.54,3413.0,6248.0
+Sports & Recreation,Sporting goods stores,March,3951.46,3118.0,6035.0
+Sports & Recreation,Sporting goods stores,May,3975.92,3078.0,5586.0
+Sports & Recreation,Sporting goods stores,November,4028.38,3107.0,5624.0
+Sports & Recreation,Sporting goods stores,October,3589.92,2611.0,5209.0
+Sports & Recreation,Sporting goods stores,September,3691.54,2828.0,5204.0
+Sports & Recreation,"Sporting goods, hobby, musical instrument, and book stores",April,6323.31,3427.0,8786.0
+Sports & Recreation,"Sporting goods, hobby, musical instrument, and book stores",August,8018.23,7258.0,10185.0
+Sports & Recreation,"Sporting goods, hobby, musical instrument, and book stores",December,11210.69,9230.0,13437.0
+Sports & Recreation,"Sporting goods, hobby, musical instrument, and book stores",February,5629.85,4995.0,7142.0
+Sports & Recreation,"Sporting goods, hobby, musical instrument, and book stores",January,6266.77,5590.0,7270.0
+Sports & Recreation,"Sporting goods, hobby, musical instrument, and book stores",July,6941.85,5997.0,9190.0
+Sports & Recreation,"Sporting goods, hobby, musical instrument, and book stores",June,7124.54,6237.0,9288.0
+Sports & Recreation,"Sporting goods, hobby, musical instrument, and book stores",March,6784.69,5186.0,9323.0
+Sports & Recreation,"Sporting goods, hobby, musical instrument, and book stores",May,6751.92,5885.0,8851.0
+Sports & Recreation,"Sporting goods, hobby, musical instrument, and book stores",November,7853.92,6904.0,10277.0
+Sports & Recreation,"Sporting goods, hobby, musical instrument, and book stores",October,6598.46,5581.0,8849.0
+Sports & Recreation,"Sporting goods, hobby, musical instrument, and book stores",September,6882.54,6021.0,8998.0
